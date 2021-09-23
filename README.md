@@ -1,1 +1,2 @@
 # nodeMcuWifiManagerRtpMidi
+The project is pretty simple I took a few libraries, smush them together to make a rtpmidi/applemidi control surface that works with rotary encoders with connects to your wifi with an interface so you dont have to hardcode the wifi info. So when you built your control surface and you decided on your final config you dont have to reupload anything if you change wifi password and stuff. Also, since it uses rdpmidi it communicates its midi signals throught wifi meaning when your setup is complete you just have to plug in power and youll be done.
